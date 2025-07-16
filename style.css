@@ -25,6 +25,10 @@ body {
   background-color: var(--escuro);
   color: var(--claro);
 }
+
+a {
+  text-decoration: none;
+}
 /* ---End - Geral--- */
 
 /* ---Navegador--- */
@@ -173,6 +177,7 @@ h1 {
 
 .info-projetos {
   margin-bottom: 5px;
+  color: rgba(226, 232, 240, 0.8);
 }
 
 .paragrafo-projetos {
@@ -442,12 +447,11 @@ h1 {
     font-weight: bold;
     width: 100%;
     transition: all 0.3s ease;
+    font-size: 17px;
   }
 
   .botao-form:hover {
     transform: translateY(-4px);
     box-shadow: 0 5px 15px rgba(79, 70, 229, 0.4);
   }
-
-
 }
