@@ -276,7 +276,7 @@ h1 {
 }
 
 /* ---Media Queries--- */
-@media (max-width: 600px) {
+@media (max-width: 360px) {
   .navigator {
     position: fixed;
     font-size: 20px;
@@ -290,7 +290,7 @@ h1 {
   .menu {
     display: flex;
     list-style: none;
-    gap: 2rem;
+    gap: 1rem;
     justify-content: center;
   }
 
@@ -355,7 +355,7 @@ h1 {
 
   .projetos-caixa {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 2fr));
+    grid-template-columns: repeat(auto-fit, minmax(130px, 2fr));
     gap: 2rem;
     max-width: 1200px;
     margin: 0 auto;
