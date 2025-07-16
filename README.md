@@ -21,6 +21,7 @@ Página de portfólio criada para inclusão dos meus projetos durante o aprendiz
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
+- JavaScript
 - Git e Github
 
 ## 💻 Projeto
