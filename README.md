@@ -1,7 +1,7 @@
 <h1 align="center"> Portólio </h1>
 
 <p align="center">
-Página de portfólio criada para inclusão dos meus projetos durante o aprendizado como Dev Front-End.
+Página de portfólio responsiva criada para inclusão dos meus projetos durante o aprendizado como Dev Front-End.
 </p>
 
 <p align="center">
