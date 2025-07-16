@@ -276,7 +276,7 @@ h1 {
 }
 
 /* ---Media Queries--- */
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .navigator {
     position: fixed;
     font-size: 20px;
